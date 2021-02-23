@@ -1,1 +1,1 @@
-# js-teamproject-olx
+# js-olx
